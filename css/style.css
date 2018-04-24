@@ -223,7 +223,7 @@ ul.cat li {
 }
 ol.type li {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 ol.type li a {
 	background: #AB987A;
